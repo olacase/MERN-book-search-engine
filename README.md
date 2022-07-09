@@ -60,5 +60,4 @@ N/A
 ## Please contact me:
   * [My GitHub Profile](https://github.com/olacase)
   * [My Github Project Repository](https://github.com/olacase/MERN-Book-Search-Engine)
-  * [My Github Deployed IO](https://jcgom3.github.io/Challenge-21-MERN-Book-Search-Engine/)
   * Email: [olacase@gmail.com](mailto:olacase@gmail.com)
